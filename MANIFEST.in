@@ -1,0 +1,1 @@
+recursive-include alphax_dashboards *.json *.js *.css *.html *.png *.svg *.md
