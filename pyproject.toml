@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "alphax_dashboards"
+version = "0.1.0"
+description = "AlphaX Dashboards for ERPNext / Frappe v15"
+authors = [
+    { name = "IRSAA / AlphaX", email = "support@irsaa.com" }
+]
+dependencies = []
+
+[tool.setuptools]
+packages = ["alphax_dashboards"]
